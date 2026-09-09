@@ -1,0 +1,17 @@
+# macOS system files
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# Python
+__pycache__/
+*.pyc
+.ipynb_checkpoints
+
+# Data files (optional - uncomment if needed)
+# *.csv
+# *.xlsx
+
+# IDE
+.vscode/
+.idea/
